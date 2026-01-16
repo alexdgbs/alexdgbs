@@ -1,6 +1,6 @@
 ## 🛠 Tech Stack & Skills
 
-### 🌐 Lenguajes de Programación
+### 🌐 Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,14 +19,14 @@
 ![PostCSS](https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 * **UI & Icons:** Flowbite, Lucide
 
-### ⚙️ Back-end & Bases de Datos
+### ⚙️ Back-end & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-* **Security:** APIs REST, Autenticación (JWT, OAuth)
+* **Infrastructure:** REST APIs, Authentication (JWT, OAuth)
 
 ### ⚡ Build & Tooling
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -34,7 +34,7 @@
 ![Rspack](https://img.shields.io/badge/Rspack-D7DE22?style=for-the-badge&logo=lightning&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-### 🧠 Fundamentos & Metodologías
-* **Conceptos:** Programación Orientada a Objetos (OOP), Estructuras de Datos
-* **Web Core:** Manipulación del DOM, Consumo de APIs (Fetch / Axios)
-* **Herramientas:** Git, GitHub, Bitbucket, Postman
+### 🧠 Fundamentals & Methodologies
+* **Concepts:** Object-Oriented Programming (OOP), Data Structures
+* **Web Essentials:** DOM Manipulation, API Consumption (Fetch / Axios)
+* **Tools:** Git, GitHub, Bitbucket, Postman
